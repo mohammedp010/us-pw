@@ -39,10 +39,7 @@ This is a full-stack, containerized application for ingesting, transforming, and
 
 ```bash
 # Clone the repo
-git clone <repo-url>
-cd <repo-dir>
-
-# Place your GEN23.csv file inside MinIO once running
+git https://github.com/mohammedp010/us-pw.git
 
 # Start the application
 docker-compose up --build
