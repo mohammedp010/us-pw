@@ -119,16 +119,6 @@ The ingestion logic handles multiple CSV uploads via the MinIO bucket `csvupload
 
 ---
 
-## 🤖 GenAI Usage
-
-This documentation and project scaffolding were assisted by **ChatGPT** to accelerate delivery, especially for:
-
-- Docker configuration
-- Architectural articulation
-- README creation
-
----
-
 ## 📝 License & Attribution
 
 This project was developed as part of a confidentialAIQ Architect assignment. Use and share responsibly.
